@@ -1,0 +1,3 @@
+http://lbs.amap.com/console/show/picker
+
+http://lbs.amap.com/api/javascript-api/example/amap-ui-simplemarker/custom-icon
